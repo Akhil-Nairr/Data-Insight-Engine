@@ -11,7 +11,7 @@
 - **Feedback Form**: Collect feedback and suggestions directly from the users of the web app.
 
 ## Live Demo
-Visit the live application [here](https://analyze-your-data.herokuapp.com/).
+Visit the live application [here](https://analyze-your-data-a6bf7b9a2f3b.herokuapp.com/).
 ![image](https://github.com/user-attachments/assets/68d5b037-ce97-4be6-ba52-4ef4ffd9836f)
 
 
@@ -85,6 +85,10 @@ chardet==5.2.0
 pillow==10.4.0
 requests==2.32.3
 
+This project is licensed under the MIT License—see the LICENSE file for details.
+
+
+This `README.md` file includes all the essential details for your project. You can now push this along with the rest of your files to GitHub. Let me know if you need anything else!
 
 
 
